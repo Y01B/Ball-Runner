@@ -784,3 +784,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-21.51.50:790][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.05.27-21.51.50:791][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Collectibles/BP_Crystal.BP_Crystal
 [2021.05.27-21.51.50:791][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Volumes/BP_WinCondition_01.BP_WinCondition_01
+[2021.05.27-22.45.31:063][868]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-22.45.31:105][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.27-22.45.59:328][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.05.27-22.45.59:362][796]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/MainLevel_Auto46A02031D46550575621D479D58DEFCE4.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2021.05.27-22.45.59:382][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.074
+[2021.05.27-22.45.59:382][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2021.05.27-22.45.59:382][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01] ([1] browsable assets)...
+[2021.05.27-22.45.59:382][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01]
+[2021.05.27-22.45.59:392][796]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/BP_WinCondition_01_Auto448454848489ED855F46EE299C921F901.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Blueprints/Actors/Volumes/BP_WinCondition_01_Auto4.uasset'
+[2021.05.27-22.45.59:393][796]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.05.27-22.51.24:751][245]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.05.27-22.51.25:808][366]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.05.27-22.51.28:664][662]Cmd: DELETE
+[2021.05.27-22.51.28:664][662]Cmd: ACTOR DELETE
+[2021.05.27-22.51.28:667][662]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2021.05.27-22.51.28:688][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.27-22.51.28:690][662]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.05.27-22.51.29:495][758]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal5)
+[2021.05.27-22.51.29:647][771]Cmd: DELETE
+[2021.05.27-22.51.29:647][771]Cmd: ACTOR DELETE
+[2021.05.27-22.51.29:650][771]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2021.05.27-22.51.29:669][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.27-22.51.29:670][771]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.05.27-22.51.30:547][874]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal6)
+[2021.05.27-22.51.30:654][881]Cmd: DELETE
+[2021.05.27-22.51.30:654][881]Cmd: ACTOR DELETE
+[2021.05.27-22.51.30:656][881]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2021.05.27-22.51.30:677][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.27-22.51.30:677][881]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.05.27-22.51.33:237][180]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal4)
+[2021.05.27-22.51.34:198][289]Cmd: DELETE
+[2021.05.27-22.51.34:198][289]Cmd: ACTOR DELETE
+[2021.05.27-22.51.34:200][289]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2021.05.27-22.51.34:219][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.27-22.51.34:220][289]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.05.27-22.51.41:511][137]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2021.05.27-22.53.17:071][596]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-22.53.17:103][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.27-22.53.24:125][129]LogTemp: Repeating last play command: Simulate
+[2021.05.27-22.53.24:136][129]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.27-22.53.24:138][129]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2021.05.27-22.53.24:167][129]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2021.05.27-22.53.24:167][129]LogPlayLevel: [PlayLevel]   Compiling BP_WinCondition_01 as a dependent...
+[2021.05.27-22.53.24:168][129]LogPlayLevel: [PlayLevel]   Compiling ML_Actors as a dependent...
+[2021.05.27-22.53.24:225][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.27-22.53.24:226][129]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (4 blueprints)
+[2021.05.27-22.53.24:226][129]PIE: New page: SIE session: MainLevel (28 maj 2021, 02:53:24)
+[2021.05.27-22.53.24:227][129]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.27-22.53.24:228][129]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.27-22.53.24:228][129]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.27-22.53.24:236][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007844s)
+[2021.05.27-22.53.24:237][129]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.27-22.53.24:237][129]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BBB82B4C00), frame # 181129
+[2021.05.27-22.53.24:237][129]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BBC26B5800), frame # 181129
+[2021.05.27-22.53.24:237][129]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.05.27-22.53.24:237][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.008871s)
+[2021.05.27-22.53.24:254][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-22.53.24:255][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-22.53.24:255][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-22.53.24:256][129]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-22.53.24:256][129]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-22.53.24:260][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-22.53.24:260][129]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-22.53.24:281][129]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.27-22.53.24:281][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-22.53.24:281][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-22.53.24:281][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-22.53.24:282][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-22.53.24:292][129]LogInit: FAudioDevice initialized.
+[2021.05.27-22.53.24:298][129]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.27-22.53.24:300][129]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.28-00.53.24
+[2021.05.27-22.53.24:300][129]LogWorld: Bringing up level for play took: 0.001017
+[2021.05.27-22.53.24:300][129]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.27-22.53.24:311][129]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.27-22.53.24:311][129]PIE: Server logged in
+[2021.05.27-22.53.24:313][129]PIE: Play in editor total start time 0,18 seconds.
+[2021.05.27-22.53.27:458][451]LogBlueprintUserMessages: [BP_WinCondition_01_4] Nie znalazles wszystkich krysztalow
+[2021.05.27-22.53.35:692][438]LogBlueprintUserMessages: [BP_WinCondition_01_4] Znalazles wszystkie krysztaly
+[2021.05.27-22.53.37:501][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.27-22.53.37:521][655]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.05.27-22.53.37:540][655]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.05.27-22.53.37:545][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-22.53.37:545][655]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.27-22.53.37:545][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.27-22.53.37:545][655]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-22.53.37:545][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-22.53.37:554][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-22.53.37:558][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-22.53.37:583][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-22.53.37:585][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.27-22.53.37:600][655]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BBC26B5800), frame # 182655
+[2021.05.27-22.53.37:600][655]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BBB82B4C00), frame # 182655
+[2021.05.27-22.53.37:616][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.27-22.53.37:649][656]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.27-22.56.13:314][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.05.27-22.56.13:417][810]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/MainLevel_Auto55BEEAA144C9BCE98D8361B9C0B5FF3B6.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2021.05.27-22.56.13:418][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.133
+[2021.05.27-22.56.13:418][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2021.05.27-22.56.13:418][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01] ([1] browsable assets)...
+[2021.05.27-22.56.13:418][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01]
+[2021.05.27-22.56.13:428][810]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/BP_WinCondition_01_Auto591BCC4AD4B1329A8240E7AA255E5E6F7.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Blueprints/Actors/Volumes/BP_WinCondition_01_Auto5.uasset'
+[2021.05.27-22.56.13:429][810]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.05.27-22.56.43:275][ 86]BlueprintLog: New page: Collapse to Function
+[2021.05.27-23.00.44:223][591]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-23.00.44:262][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.05.27-23.01.30:160][224]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-23.01.30:197][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.27-23.05.01:681][583]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-23.05.01:683][583]LogBlueprint: Error: [Compiler BP_WinCondition_01] The current value of the ' New Transform ' pin is invalid: 'New Transform' in action 'SetActorTransform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.05.27-23.05.01:742][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.27-23.06.14:012][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.05.27-23.06.14:061][458]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/MainLevel_Auto609FE97D2441E6E66136AE29316D636B7.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2021.05.27-23.06.14:062][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.076
+[2021.05.27-23.06.14:062][458]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2021.05.27-23.06.14:063][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01] ([1] browsable assets)...
+[2021.05.27-23.06.14:063][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Volumes/BP_WinCondition_01]
+[2021.05.27-23.06.14:073][458]LogSavePackage: Moving '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/BP_WinCondition_01_Auto6AE1AD6D646F9E5E425621287142E1FD4.tmp' to '../../../../../PLIKI KOMPUTERA/UNI/I MGR/I SEMESTR/silniki/BALLRunneRR/BallRunner/Saved/Autosaves/Game/Blueprints/Actors/Volumes/BP_WinCondition_01_Auto6.uasset'
+[2021.05.27-23.06.14:074][458]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.05.27-23.07.26:984][487]BlueprintLog: New page: Compile BP_WinCondition_01
+[2021.05.27-23.07.27:021][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
